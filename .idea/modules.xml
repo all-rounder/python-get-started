@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../freeCodeCamp/Data Analysis with Python/.idea/Data Analysis with Python.iml" filepath="$PROJECT_DIR$/../../freeCodeCamp/Data Analysis with Python/.idea/Data Analysis with Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../freeCodeCamp/Scientific Computing with Python/.idea/Scientific Computing with Python.iml" filepath="$PROJECT_DIR$/../../freeCodeCamp/Scientific Computing with Python/.idea/Scientific Computing with Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/getstarted.iml" filepath="$PROJECT_DIR$/.idea/getstarted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parts_order/.idea/parts_order.iml" filepath="$PROJECT_DIR$/../parts_order/.idea/parts_order.iml" />
+    </modules>
+  </component>
+</project>
